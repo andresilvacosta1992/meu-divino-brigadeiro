@@ -1,0 +1,124 @@
+.gridecosta {
+    margin-bottom: 20px;
+    text-align: center;
+    }
+    
+    .gridecosta img {
+    border-radius: 20px;
+    max-width: 100%;
+    }
+    
+    .gridecosta h3 {
+    margin: 10px;
+    }
+    
+    
+    .chamada h2 {
+    background: #c26148;
+    margin: 20px;
+    padding: 40px;
+    color: white;
+    }
+    
+    .gridecosta img {
+    object-fit: cover;
+    height: 200px;
+    width: 100%;
+    }
+    
+    .btn {
+    margin: 5px;
+    }
+    
+    .duogride img {
+    border-radius: 20px;
+    object-fit: cover;
+    height: 100%;
+    }
+    
+    .duogride {
+    text-align: left;
+    }
+    
+    .duogride p {
+    text-align: left;
+    }
+    
+    .duogride {
+    margin-bottom: 20px;
+    }
+    
+    .titulo-costa {
+    padding: 20px;
+    border-radius: 20px;
+    word-wrap: anywhere;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+    text-align: center;
+    }
+    
+    .gridecosta i {
+    font-size: 8em;
+    }
+    
+
+
+    img {
+        max-width: 100%;
+    }
+
+    .btn {
+         background: green;
+    }
+
+    .btn:hover {
+        background: white;
+        color: green;
+   }
+
+   .btn-whatsapp {
+    position: fixed;
+    right: 0;
+    bottom: 40px;
+    z-index: 1000;
+}
+
+body {
+    background: #f8f9f9;
+    color: #343a40de;
+}
+
+.marcar {
+    background: green;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.row.msg-erro {
+    background: #373b3e5c;
+    color: #343a40;
+    margin-bottom: 100px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.icon-erro {
+    font-size: 3em;
+}
+
+.row.instagram {
+    background: #d72a58e8;
+    color: white;
+    text-align: center;
+    margin: 20px 0;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+
+.icon-instagram {
+    font-size: 8em;
+
+
+}
